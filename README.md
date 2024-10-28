@@ -93,14 +93,8 @@ Mermaid uses a text-based syntax to define diagrams. Users can create diagrams b
 
 **Example of Mermaid Syntax for a Flowchart**
 
-```mermaid
-graph TD;
-    A[Start] --> B{Decision}
-    B -->|Yes| C[Action 1]
-    B -->|No| D[Action 2]
-    C --> E[End]
-    D --> E
-```
+![image](https://github.com/user-attachments/assets/583f8deb-c686-4e8c-9c1e-0c5617d6eca3)
+
 
 ### Integration with AI Tools
 
@@ -160,6 +154,7 @@ classDiagram
     Customer --> Account
     Account --> Transaction
 ```
+
 By learning from these examples, the AI model can generalize and generate accurate diagrams for a wide range of requests.
 
 ## The LLaMA3-70B Model
