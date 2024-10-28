@@ -85,7 +85,6 @@ Gantt charts are used for project management, showing the timeline of tasks and 
 
 State diagrams represent the states and transitions of a system, particularly useful in modeling the behavior of objects.
 
-**Example of a simple State Diagram**
 ![image](https://github.com/user-attachments/assets/55ae2313-ebb1-4a19-8a69-117596ed8fd8)
 
 
