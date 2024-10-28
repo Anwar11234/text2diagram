@@ -45,7 +45,6 @@ Flowcharts are used to represent algorithms and workflows. They help in understa
 
 Sequence diagrams illustrate how objects interact in a particular sequence of time. They are useful for understanding the flow of messages between objects in a system.
 
-**Example of a Sequence Diagram**
 ![image](https://github.com/user-attachments/assets/10ab35f4-e6f6-48f4-b2b8-b398aa84cda1)
 
 
@@ -53,7 +52,6 @@ Sequence diagrams illustrate how objects interact in a particular sequence of ti
 
 Mind maps are used to visually organize information. They are particularly useful for brainstorming and structuring complex concepts.
 
-**Example of a Mind Map**
 ![image](https://github.com/user-attachments/assets/7b2b616a-510f-47c4-8d83-eb933bc96ff9)
 
 
@@ -61,7 +59,6 @@ Mind maps are used to visually organize information. They are particularly usefu
 
 Class diagrams represent the static structure of a system by showing its classes, attributes, methods, and relationships among objects.
 
-**Example of a Class Diagram**
 ![image](https://github.com/user-attachments/assets/a5fa8541-8906-46e6-9fe7-f51963abf854)
 
 
@@ -69,7 +66,6 @@ Class diagrams represent the static structure of a system by showing its classes
 
 Entity-Relationship (ER) diagrams are used to model the data structure of a database. They illustrate the relationships between entities in a database.
 
-**Example of a simple ER Diagram**
 ![image](https://github.com/user-attachments/assets/e798576a-051f-4a42-95d6-f96f86beafda)
 
 
@@ -77,7 +73,6 @@ Entity-Relationship (ER) diagrams are used to model the data structure of a data
 
 Gantt charts are used for project management, showing the timeline of tasks and their dependencies.
 
-**Example of a simple Gantt Diagram**
 ![image](https://github.com/user-attachments/assets/696c0b6a-f511-44ea-ad4e-95ec5a3c07ec)
 
 
